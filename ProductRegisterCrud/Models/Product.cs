@@ -17,6 +17,5 @@ namespace ProductRegisterCrud.Models
         [Display(Name = "Amount")]
         [Column("ProductAmount")]
         public int ProductAmount { get; set; }
-
     }
 }
